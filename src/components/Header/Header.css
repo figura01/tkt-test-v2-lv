@@ -1,0 +1,16 @@
+.header {
+  font-size: 1.625rem;
+  padding-top: 3.125rem;
+  padding-bottom: 1.625rem;
+}
+
+.header h2{
+  margin: 0;
+  padding: 0;
+}
+
+.header span{
+  font-size: .75rem;
+  color: #696969;
+  text-transform: uppercase;
+}

@@ -1,0 +1,21 @@
+.nav-link {
+  padding:20px;
+  background-color: transparent;
+  width:100%;
+}
+
+.nav-link.active {
+  background-color: var(--main-blue-light);
+  color: var(--main-blue)
+} 
+
+.nav-link-content {
+  display:flex;
+  font-size: .875rem;
+  align-items: center;
+}
+
+.nav-link-content .icon {
+  padding: 10px;
+  color: var(--main-blue)
+}

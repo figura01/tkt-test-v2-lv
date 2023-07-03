@@ -1,0 +1,8 @@
+@import '../../styles/vars.css';
+
+.button-return {
+  background: var(--gradient-blue-light);
+  width: 2.625rem;
+  height: 2.625rem;
+  margin-right: 1.5rem;
+}

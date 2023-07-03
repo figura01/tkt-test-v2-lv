@@ -1,0 +1,19 @@
+@import '../../styles/vars.css';
+
+.sidebar {
+  background-color: var(--main-super-light-grey);
+  width: calc(var(--drawerWidth) * 1px);
+  height: 100%;
+  padding: 1.25rem;
+}
+
+.menu {
+  background: transparent;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-connect {
+  display: flex;
+}

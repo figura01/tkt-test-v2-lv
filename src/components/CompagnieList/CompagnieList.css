@@ -1,0 +1,23 @@
+@import '../../styles/vars.css';
+
+.compagnie-list-header {
+  padding: 5rem 0 1rem;
+}
+
+.compagnie-list-item a {
+  display: flex;
+  width: 100%;
+  border: 1px solid var(--main-light-grey);
+  border-radius: 10px;
+  padding: 2rem;
+  margin: 1rem 0; 
+  text-transform: uppercase;
+}
+
+.compagnie-list-item a .sector {
+  background-color: var(--main-blue);
+  margin-left: .5rem;
+  padding: .5rem;
+  border-radius: 3px;
+  color: white;
+}
